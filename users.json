@@ -3,12 +3,12 @@
     "username": "surge",
     "password": "123",
     "sub_duration": "never",
-    "hwid": "1412-1752"
+    "hwid": "93A7-1750"
   },
   {
-    "username": "altro_utente",
-    "password": "password_segreta",
+    "username": "forna",
+    "password": "123",
     "sub_duration": "2025-12-31",
-    "hwid": "ABCD-1234"
+    "hwid": "93A7-1750"
   }
 ]
