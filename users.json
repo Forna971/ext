@@ -1,0 +1,14 @@
+[
+  {
+    "username": "surge",
+    "password": "123",
+    "sub_duration": "never",
+    "hwid": "C878-8575"
+  },
+  {
+    "username": "altro_utente",
+    "password": "password_segreta",
+    "sub_duration": "2025-12-31",
+    "hwid": "ABCD-1234"
+  }
+]
