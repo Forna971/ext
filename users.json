@@ -8,7 +8,7 @@
   {
     "username": "forna",
     "password": "123",
-    "sub_duration": "2025-12-31",
+    "sub_duration": "never",
     "hwid": "93A7-1750"
   }
 ]
